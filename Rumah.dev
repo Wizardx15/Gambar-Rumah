@@ -1,7 +1,7 @@
 [Project]
 FileName=Rumah.dev
 Name=Rumah
-Type=0
+Type=1
 Ver=2
 ObjFiles=
 Includes=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=main.cpp
+FileName=Rumah.cpp
 CompileCpp=1
 Folder=
 Compile=1
